@@ -17,8 +17,10 @@ Das Ergebnis ist immer ein VORSCHLAG – Bernd wählt per Zuruf an/ab.
 
 - TikTok nur bei Format video – gibt es kein Video, fällt TikTok automatisch
   aus dem Vorschlag.
-- Facebook läuft via Meta Auto-Share (nur wenn Instagram aktiv ist) und wird
-  in der Matrix mit "—" markiert.
+- Facebook läuft ausschließlich via Meta Auto-Share (IG → FB), nie als eigenes
+  Ayrshare-Ziel – Bernd hat bewusst keine Facebook-Page. In der Matrix mit "—"
+  markieren; einen direkten Facebook-Post nie vorschlagen. Facebook wird also
+  genau dann bespielt, wenn Instagram aktiv ist.
 
 ## Lernschleife
 

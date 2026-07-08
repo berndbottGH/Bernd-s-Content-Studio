@@ -55,6 +55,9 @@ Facebook    —   (läuft via Meta Auto-Share, nur wenn IG aktiv)
 ```
 
 - Gültige Plattformen: Instagram, Facebook, Threads, X, LinkedIn, TikTok.
+- Facebook läuft ausschließlich via Meta Auto-Share (IG → FB), nie als eigenes
+  Ayrshare-Ziel – Bernd hat bewusst keine Facebook-Page. In der Matrix immer
+  als "—" zeigen, nie einen direkten Facebook-Post vorschlagen.
 - Format pro Plattform unabhängig wählbar: **video** / **text** / **text+bild**.
   Textprofile pro Plattform: `config/platforms.md`.
 - Text-Posts müssen wie bewusst geschrieben klingen, nicht wie ein
