@@ -1,0 +1,22 @@
+{
+  "comment": "Untertitel-Stil für scripts/subtitle.py (FFmpeg force_style, ASS-Syntax)",
+  "font_name": "Arial",
+  "font_size": 14,
+  "primary_colour": "&H00FFFFFF",
+  "outline_colour": "&H00000000",
+  "back_colour": "&H80000000",
+  "bold": true,
+  "outline": 1.5,
+  "shadow": 0,
+  "border_style": 1,
+  "alignment": 2,
+  "margin_v": 60,
+  "margin_l": 30,
+  "margin_r": 30,
+  "vertical_export": {
+    "enabled": true,
+    "width": 1080,
+    "height": 1920,
+    "mode": "crop_center"
+  }
+}

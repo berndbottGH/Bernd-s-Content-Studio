@@ -1,0 +1,59 @@
+{
+  "comment": "Grunddesign für Zitat-Grafiken (F7). Cleanes Platzhalter-Design – Bernd kann jederzeit Hintergründe/Logos in config/design/assets/ legen und hier referenzieren.",
+  "background": {
+    "type": "gradient",
+    "color_top": "#1c2733",
+    "color_bottom": "#0e141b",
+    "image": null
+  },
+  "text": {
+    "font": "config/design/assets/headline.ttf",
+    "font_fallbacks": [
+      "/System/Library/Fonts/Supplemental/Georgia Bold.ttf",
+      "/System/Library/Fonts/Helvetica.ttc",
+      "/usr/share/fonts/truetype/dejavu/DejaVuSerif-Bold.ttf",
+      "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"
+    ],
+    "color": "#f5f0e8",
+    "align": "center",
+    "position": "center",
+    "max_width_ratio": 0.78,
+    "quote_marks": true
+  },
+  "branding": {
+    "text": "@berndbott · authentic, connected & free",
+    "font_fallbacks": [
+      "/System/Library/Fonts/Helvetica.ttc",
+      "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"
+    ],
+    "color": "#c9a35f",
+    "position": "bottom_center",
+    "margin_ratio": 0.055,
+    "logo": null,
+    "logo_height_ratio": 0.06
+  },
+  "templates": {
+    "zitat": {
+      "comment": "Ein Satz aus dem Post/Video, groß gesetzt",
+      "font_size_ratio": 0.062,
+      "quote_marks": true,
+      "uppercase": false
+    },
+    "wort": {
+      "comment": "Ein einzelnes Wort/Begriff, plakativ",
+      "font_size_ratio": 0.16,
+      "quote_marks": false,
+      "uppercase": true
+    },
+    "hook": {
+      "comment": "Frage oder Aussage als Aufmacher",
+      "font_size_ratio": 0.075,
+      "quote_marks": false,
+      "uppercase": false
+    }
+  },
+  "formats": {
+    "1x1": { "width": 1080, "height": 1080 },
+    "9x16": { "width": 1080, "height": 1920 }
+  }
+}

@@ -1,0 +1,16 @@
+# Geheimnisse
+.env
+
+# Eingangs- und Arbeitsdateien (Videos, Audios, Zwischenstände)
+inbox/*
+!inbox/.gitkeep
+work/*
+!work/.gitkeep
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# macOS
+.DS_Store
